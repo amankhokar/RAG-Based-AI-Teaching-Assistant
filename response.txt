@@ -1,0 +1,13 @@
+Hi there! 
+
+You're interested in learning where CSS is taught, right? Well, I've got some info for you!
+
+CSS (Cascading Style Sheets) is a crucial part of web development, and it's indeed covered in various video chunks of your Sigma web development course.
+
+One specific place where CSS is explicitly taught is in Video #1, "Installing VS Code & How Websites Work" (start time: 1127 seconds). The instructor talks about how CSS is used to style a webpage, which skin is CSS, and even mentions that all these things are done through CSS. 
+
+Additionally, CSS is also mentioned briefly in other videos such as Video #14 ("Introduction to CSS"), where the instructor explains what CSS stands for (Cascading Style Sheets) and its purpose.
+
+However, if you're looking for a more in-depth understanding of CSS and how it's applied, I'd recommend checking out Video #15, "Inline, Internal & External CSS" (start time: 211 seconds). This video might be more focused on the practical aspects of using CSS to add styles to a webpage.
+
+If none of these videos seem relevant or helpful, don't worry! You can always ask another question about the course content.
